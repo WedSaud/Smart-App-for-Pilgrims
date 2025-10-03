@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61563062849",
+    "project_id": "hajjapp-6b849",
+    "storage_bucket": "hajjapp-6b849.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61563062849:android:d20d543b4b84f916f014c0",
+        "android_client_info": {
+          "package_name": "com.example.hajj_and_umrah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMBmk2XCvk0vfOZTc5D9e5XQ5f1FfoKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
