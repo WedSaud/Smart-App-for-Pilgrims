@@ -1,0 +1,64 @@
+{
+    "@@locale": "ur",
+    "selectAppLanguage": "ایپ کی زبان منتخب کریں۔",
+    "choosePreferredLanguage" : "نیچے دیے گئے آپشن میں سے اپنی پسند کی زبان کا انتخاب کریں۔",
+    "english" : "انگریزی",
+    "arabic" : "عربی" ,
+    "urdu" : "اردو",
+    "continueButton": "جاری رکھیں",
+
+
+  "title":"خوش آمدید",
+  "subtitle":"حج اور عمرہ زائرین کے انتظامی نظام کو اسمارٹ بنانا۔",
+  "signinbutton":"سائن ان کریں",
+  "signupbutton":"سائن اپ کریں",
+  
+
+   "textfield1":"پورا نام",
+  "textfield2" : "ای میل",
+  "textfield3" : "پاس ورڈ",
+
+
+  
+  "forgetpassword" : "پاس ورڈ بھول جائیں۔",
+  "info" : "اکاؤنٹ نہیں ہے؟ سائن اپ کریں۔",
+
+  
+ "otpappbar": "او ٹی پی درج کریں۔",
+  "heading1" : "او ٹی پی کی توثیق",
+  "heading2" : "بھیجے گئے OTP درج کریں۔",
+  "otptextfield" : "او ٹی پی درج کریں۔",
+  "otpbutton" : "او ٹی پی کی تصدیق کریں",
+
+
+  
+  "homeheading": "میں آپ کی کس طرح مدد کر سکتا ہوں",
+  "homesearch": "تلاش کریں",
+  "homebtn1": "اے آر گائیڈ",
+  "homebtn2": "رسومات کی رہنمائی",
+  "homebtn3": "ایمرجنسی",
+  "homebtn4": "صحت کی معلومات",
+
+
+
+  "ritualhomeappbar": "رسومات کی رہنمائی",
+  "ritualhomeheading": "اپنی ضرورت کا انتخاب کریں",
+  "ritualhomebtn1": "قرآن",
+  "ritualhomebtn2": "عمرہ کی رسومات",
+  "ritualhomebtn3": "حج کی رسومات",
+
+   "healthhomeappbar" : "صحت کی معلومات",
+  "healthhomeheading1" : "صحت کا معائنہ",
+  "healthhomeheading2" : "شروع کرنے کے لیے براہ کرم اپنا انگلی کیمرہ پر رکھیں",
+  "healthhomeheading3" : "پیمائش ہو رہی ہے",
+  "healthhomebtn" : "شروع کریں",
+
+  "healthresultappbar": "صحت کے نتائج",
+  "healthresultheading1": "صحت کا معائنہ",
+  "healthresultheading2": "دل کی دھڑکن",
+  "healthresultbtn1": "براہ کرم قریبی ہسپتال جائیں",
+  "healthresultbtn2": "ایمرجنسی مدد حاصل کریں"
+
+
+}
+  

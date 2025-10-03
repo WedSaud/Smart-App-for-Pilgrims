@@ -1,0 +1,64 @@
+{
+    "@@locale": "ar",
+    "selectAppLanguage": "حدد لغة التطبيق",
+    "choosePreferredLanguage" : "اختر لغتك المفضلة من الخيار أدناه",
+   "english" : "إنجليزي",
+  "arabic" : "عربي" ,
+  "urdu" : "الأردية",
+  "continueButton": "اكمل",
+   
+
+ "title":"مرحباً",
+  "subtitle":"إلى نظام إدارة الحج والعمرة الذكي",
+  "signinbutton":"تسجيل الدخول",
+  "signupbutton":"تسجيل جديد",
+
+
+ "textfield1":"الاسم الكامل",
+  "textfield2" : "البريد الإلكتروني",
+  "textfield3" : "كلمة المرور",
+
+
+   "forgetpassword" : "نسيت كلمة المرور",
+  "info" : "ليس لديك حساب؟ تسجيل جديد",
+
+  "otpappbar": "أدخل كلمة المرور",
+  "heading1" : "التحقق من البريد الإلكتروني",
+  "heading2" : "أدخل رمز التحقق",
+  "otptextfield" : "أدخل رمز التحقق",
+  "otpbutton" : "التحقق من كلمة المرور",
+
+
+  
+  "homeheading": "كيف يمكنني مساعدتك",
+  "homesearch": "بحث",
+  "homebtn1": "دليل المرشد التفاعلي",
+  "homebtn2": "إرشادات",
+  "homebtn3": "الطوارئ",
+  "homebtn4": " كشف الحالة الصحية",
+
+
+
+  "ritualhomeappbar": "إرشادات",
+  "ritualhomeheading": "اختر ما تحتاجه",
+  "ritualhomebtn1": "القرآن",
+  "ritualhomebtn2": "ارشادات العمرة",
+  "ritualhomebtn3": "ارشادات الحج",
+
+
+   "healthhomeappbar" : "كشف الحالة الصحية",
+  "healthhomeheading1" : "الفحص الصحي",
+  "healthhomeheading2" : "يرجى وضع إصبعك على الكاميرا لبدء القياس",
+  "healthhomeheading3" : "جاري القياس",
+  "healthhomebtn" : "ابدأ",
+
+
+  "healthresultappbar": "نتائج الكشف الصحي",
+  "healthresultheading1": "فحص الصحي",
+  "healthresultheading2": "معدل ضربات القلب",
+  "healthresultbtn1": "يرجى الذهاب إلى أقرب مستشفى",
+  "healthresultbtn2": "اطلب المساعدة الطارئة"
+
+
+}
+  

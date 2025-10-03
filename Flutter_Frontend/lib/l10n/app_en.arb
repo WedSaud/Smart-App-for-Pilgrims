@@ -1,0 +1,59 @@
+{ 
+  
+    "@@locale": "en",
+    "selectAppLanguage": "Select App Language",
+  "choosePreferredLanguage" : "choose your preferred language from the option below",
+  "english" : "English",
+  "arabic" : "Arabic" ,
+  "urdu" : "Urdu",
+  "continueButton": "Continue",
+
+  "title":"welcome",
+  "subtitle":"To smart hajj and umrah pilgrim management system",
+  "signupbutton":"Sign Up",
+  "signinbutton":"Sign In",
+
+
+  "textfield1":"Full Name",
+  "textfield2" : "Email",
+  "textfield3" : "Password",
+  
+
+ 
+  "forgetpassword" : "Forget Password",
+  "info" : "Do not have an account? Sign Up",
+
+  "otpappbar": "Enter OTP",
+  "heading1" : "OTP Verification",
+  "heading2" : "Enter the OTP sent to",
+  "otptextfield" : "Enter OTP",
+  "otpbutton" : "Verify OTP",
+
+  "homeheading" : "How can I help you",
+  "homesearch" : "Search" ,
+  "homebtn1" : "Traffic Guidance" , 
+  "homebtn2" : "Ritual Guidelines" ,
+  "homebtn3" : "Emergency" ,
+  "homebtn4" : "Health Cheaking" ,
+
+
+  "ritualhomeappbar" : "Ritual Guidelines",
+  "ritualhomeheading" : "Choose What you need",
+  "ritualhomebtn1" : "Quran",
+  "ritualhomebtn2" : "umrah Ritual",
+  "ritualhomebtn3" : "Hajj Ritual",
+
+
+  "healthhomeappbar" : "Health Cheaking",
+  "healthhomeheading1" : "Health Check Up",
+  "healthhomeheading2" : "Please Put Your Finger on Camera To Start",
+  "healthhomeheading3" : "Measuring",
+  "healthhomebtn" : "Start",
+
+  "healthresultappbar" : "Health Result",
+  "healthresultheading1" : "Health Check Up",
+  "healthresultheading2" : "Heart Rate",
+  "healthresultbtn1" : "Please go to the nearest hospital",
+  "healthresultbtn2" : "Seek Emergency help"
+}
+  
